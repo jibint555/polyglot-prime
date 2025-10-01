@@ -142,7 +142,6 @@ jobs:
 
           Regards,
           Tech by Design Automation Team
-        content_type: "text/plain"
         from: "Tech by Design HL7 SmokeTest Result <no-reply@tx.techbd.org>"
         to: gibin.thomas@citrusinformatics.com
         attachments: ${{ env.failure_attachments }}
